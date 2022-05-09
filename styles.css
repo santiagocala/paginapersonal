@@ -6,3 +6,17 @@
     background-color: #24252A;
     color: #edf0f1;
 }
+
+#nav_principal{
+    margin: 15px;
+    padding: 20px;
+}
+
+a {
+    margin: 15px;
+    padding: 20px;
+}
+
+#nombre{
+    font-weight: bold;
+}
